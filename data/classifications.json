@@ -1,0 +1,29 @@
+{
+  "yellow": {
+    "riderId": 100,
+    "time": "76h 00' 32'"
+  },
+  "green": {
+    "riderId": 116,
+    "points": 372
+  },
+  "polkaDot": {
+    "riderId": 100,
+    "points": 119
+  },
+  "white": {
+    "riderId": 117,
+    "time": "76h 11' 32'"
+  },
+  "combativity": {
+    "riderId": 115
+  },
+  "bestTeammate": {
+    "riderId": 127
+  },
+  "bestTeam": {
+    "name": "TEAM VISMA | LEASE A BIKE",
+    "logo": "/images/teams/visma.png",
+    "time": "232h 01' 32'"
+  }
+}

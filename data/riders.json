@@ -1,0 +1,288 @@
+[
+  { 
+    "id": 100, 
+    "name": "TADEJ POGACAR", 
+    "age": 26, 
+    "team": "UAE TEAM EMIRATES XRG", 
+    "flag": "/flags/slovenie.png", 
+    "photo": "/riders/pogacar.png" 
+  },
+  { 
+    "id": 101, 
+    "name": "JONAS ABRAHAMSEN", 
+    "age": 29, 
+    "team": "UNO-X MOBILITY", 
+    "flag": "/flags/norvege.png", 
+    "photo": "/riders/abrahamsen.png" 
+  },
+  { 
+    "id": 102, 
+    "name": "EDOARDO AFFINI", 
+    "age": 28, "team": "TEAM VISMA | LEASE A BIKE", 
+    "flag": "/flags/italie.png", 
+    "photo": "/riders/affini.png" 
+  },
+  { 
+    "id": 103, 
+    "name": "JULIAN ALAPHILIPPE", 
+    "age": 32, 
+    "team": "SOUDAL QUICK-STEP", 
+    "flag": "/flags/france.jpg", 
+    "photo": "/riders/alaphilippe.png" 
+  },
+  { 
+    "id": 104, 
+    "name": "TOBIAS ANDRESEN", 
+    "age": 22, 
+    "team": "TEAM DSM-FIRMENICH", 
+    "flag": "/flags/danemark.png", 
+    "photo": "/riders/andresen.png" 
+  },
+  { 
+    "id": 105, 
+    "name": "THYMEN ARENSMAN", 
+    "age": 25, 
+    "team": "INEOS GRENADIERS", 
+    "flag": "/flags/pays_bas.png", 
+    "photo": "/riders/arensman.png" 
+  },
+  { 
+    "id": 106, 
+    "name": "DAVIDE BALLERINI", 
+    "age": 30, "team": "ASTANA QAZAQSTAN", 
+    "flag": "/flags/italie.png", 
+    "photo": "/riders/ballerini.png" 
+  },
+  { 
+    "id": 107, 
+    "name": "PHIL BAUHAUS", 
+    "age": 30, 
+    "team": "BAHRAIN VICTORIOUS", 
+    "flag": "/flags/allemagne.png", 
+    "photo": "/riders/bauhaus.png" 
+  },
+  { 
+    "id": 108, 
+    "name": "SANTIAGO BUITRAGO", 
+    "age": 25, 
+    "team": "BAHRAIN VICTORIOUS", 
+    "flag": "/flags/colombie.png", 
+    "photo": "/riders/buitrago.png" 
+  },
+  { 
+    "id": 109, 
+    "name": "VICTOR CAMPENAERTS", 
+    "age": 33, 
+    "team": "LOTTO DSTNY", 
+    "flag": "/flags/belgique.png", 
+    "photo": "/riders/campenaerts.png" 
+  },
+  { 
+    "id": 110, 
+    "name": "ARNAUD DE LIE", 
+    "age": 23, 
+    "team": "LOTTO DSTNY", 
+    "flag": "/flags/belgique.png", 
+    "photo": "/riders/de_lie.png" 
+  },
+  { 
+    "id": 111, 
+    "name": "PASCAL EENKHOORN", 
+    "age": 28, 
+    "team": "LOTTO DSTNY", 
+    "flag": "/flags/pays_bas.png", 
+    "photo": "/riders/eenkhorn.png" 
+  },
+  { 
+    "id": 112, 
+    "name": "REMCO EVENEPOEL", 
+    "age": 25, 
+    "team": "SOUDAL QUICK-STEP", 
+    "flag": "/flags/belgique.png", 
+    "photo": "/riders/evenepoel.png" 
+  },
+  { 
+    "id": 113, 
+    "name": "BINIAM GIRMAY", 
+    "age": 25, 
+    "team": "INTERMARCHÉ-WANTY", 
+    "flag": "/flags/erythree.png", 
+    "photo": "/riders/girmay.png" 
+  },
+  { 
+    "id": 114, 
+    "name": "KADEN GROVES", 
+    "age": 26, 
+    "team": "ALPECIN-DECEUNINCK", 
+    "flag": "/flags/australie.jpg", 
+    "photo": "/riders/groves.png" 
+  },
+  { 
+    "id": 115, 
+    "name": "BEN HEALY", 
+    "age": 24, 
+    "team": "EF EDUCATION-EASYPOST", 
+    "flag": "/flags/irlande.png", 
+    "photo": "/riders/healy.png" 
+  },
+  { 
+    "id": 116, 
+    "name": "JONATHAN MILAN", 
+    "age": 24, 
+    "team": "LIDL-TREK", 
+    "flag": "/flags/italie.png", 
+    "photo": "/riders/j-milan.png" 
+  },
+  { 
+    "id": 117, 
+    "name": "FLORIAN LIPOWITZ", 
+    "age": 24, 
+    "team": "BORA-HANSGROHE", 
+    "flag": "/flags/allemagne.png", 
+    "photo": "/riders/lipowitz.png" 
+  },
+  { 
+    "id": 118, 
+    "name": "JORDI MEEUS", 
+    "age": 26, 
+    "team": "BORA-HANSGROHE", 
+    "flag": "/flags/belgique.png", 
+    "photo": "/riders/meeus.png" 
+  },
+  { 
+    "id": 119, 
+    "name": "TIM MERLIER", 
+    "age": 32, 
+    "team": "SOUDAL QUICK-STEP", 
+    "flag": "/flags/belgique.png", 
+    "photo": "/riders/merlier.png" 
+  },
+  { 
+    "id": 120, 
+    "name": "MATEJ MOHORIČ", 
+    "age": 30, 
+    "team": "BAHRAIN VICTORIOUS", 
+    "flag": "/flags/slovenie.png", 
+    "photo": "/riders/mohoric.png" 
+  },
+  { 
+    "id": 121, 
+    "name": "BEN O'CONNOR", 
+    "age": 29, 
+    "team": "DECATHLON AG2R LA MONDIALE", 
+    "flag": "/flags/australie.jpg", 
+    "photo": "/riders/o-connor.png" 
+  },
+  { 
+    "id": 122, 
+    "name": "OSCAR ONLEY", 
+    "age": 22, 
+    "team": "TEAM DSM-FIRMENICH", 
+    "flag": "/flags/royaume_uni.jpg", 
+    "photo": "/riders/onley.png" 
+  },
+  { 
+    "id": 123, 
+    "name": "AURÉLIEN PARET-PEINTRE", 
+    "age": 28, 
+    "team": "DECATHLON AG2R LA MONDIALE", 
+    "flag": "/flags/france.jpg", 
+    "photo": "/riders/paret-peintre.png" 
+  },
+  { 
+    "id": 124, 
+    "name": "JASPER PHILIPSEN", 
+    "age": 27, 
+    "team": "ALPECIN-DECEUNINCK", 
+    "flag": "/flags/belgique.png", 
+    "photo": "/riders/philipsen.png" 
+  },
+  { 
+    "id": 125, 
+    "name": "PRIMOŽ ROGLIČ", 
+    "age": 35, 
+    "team": "BORA-HANSGROHE", 
+    "flag": "/flags/slovenie.png", 
+    "photo": "/riders/roglic.png" 
+  },
+  { 
+    "id": 126, 
+    "name": "MAURO SCHMID", 
+    "age": 25, 
+    "team": "TEAM JAYCO ALULA", 
+    "flag": "/flags/suisse.png", 
+    "photo": "/riders/schmid.png" 
+  },
+  { 
+    "id": 127, 
+    "name": "QUINN SIMMONS", 
+    "age": 23, 
+    "team": "LIDL-TREK", 
+    "flag": "/flags/usa.webp", 
+    "photo": "/riders/simmons.png" 
+  },
+  { 
+    "id": 128, 
+    "name": "MICHAEL STORER", 
+    "age": 28, 
+    "team": "TUDOR PRO CYCLING", 
+    "flag": "/flags/australie.jpg", 
+    "photo": "/riders/storer.png" 
+  },
+  { 
+    "id": 129, 
+    "name": "WOUT VAN AERT", 
+    "age": 30, 
+    "team": "TEAM VISMA | LEASE A BIKE", 
+    "flag": "/flags/belgique.png", 
+    "photo": "/riders/van_aert.png" 
+  },
+  { 
+    "id": 130, 
+    "name": "CÉDRIC VAN DEN BROECK", 
+    "age": 21, 
+    "team": "TEAM DSM-FIRMENICH", 
+    "flag": "/flags/belgique.png", 
+    "photo": "/riders/van_den_broeck.png" 
+  },
+  { 
+    "id": 131, 
+    "name": "MATHIEU VAN DER POEL", 
+    "age": 30, 
+    "team": "ALPECIN-DECEUNINCK", 
+    "flag": "/flags/pays_bas.png", 
+    "photo": "/riders/van_der_poel.png" 
+  },
+  { 
+    "id": 132, 
+    "name": "JONAS VINGEGAARD", 
+    "age": 28, 
+    "team": "TEAM VISMA | LEASE A BIKE", 
+    "flag": "/flags/danemark.png", 
+    "photo": "/riders/vingegaard.png" 
+  },
+  { 
+    "id": 133, 
+    "name": "SØREN WÆRENSKJOLD", 
+    "age": 24, 
+    "team": "UNO-X MOBILITY", 
+    "flag": "/flags/norvege.png", 
+    "photo": "/riders/waerenskjold.png" 
+  },
+  { 
+    "id": 134, 
+    "name": "TIM WELLENS", 
+    "age": 34, 
+    "team": "UAE TEAM EMIRATES XRG", 
+    "flag": "/flags/belgique.png", 
+    "photo": "/riders/wellens.png" 
+  },
+  { 
+    "id": 135, 
+    "name": "ADAM YATES", 
+    "age": 32, 
+    "team": "UAE TEAM EMIRATES XRG", 
+    "flag": "/flags/royaume_uni.jpg", 
+    "photo": "/riders/yates.png" 
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "yellow",
+    "name": "Maillot Jaune",
+    "description": "Leader du Général",
+    "image": "/images/jerseys/maillot-jaune.png"
+  },
+  {
+    "id": "green",
+    "name": "Maillot Vert",
+    "description": "Classement par points",
+    "image": "/images/jerseys/maillot-vert.png"
+  },
+  {
+    "id": "polkaDot",
+    "name": "Maillot à Pois",
+    "description": "Meilleur Grimpeur.",
+    "image": "/images/jerseys/maillot-pois.png"
+  },
+  {
+    "id": "white",
+    "name": "Maillot Blanc",
+    "description": "Meilleur Jeune.",
+    "image": "/images/jerseys/maillot-jeune.png"
+  }
+]
