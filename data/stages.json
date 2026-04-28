@@ -362,9 +362,9 @@
       { "rank": 3, "riderId": 108 }
     ],
     "gallery": [
-      "/images/stages/16/1.jpg",
+      "/images/stages/16/1.png",
       "/images/stages/16/2.jpg",
-      "/images/stages/16/3.jpg"
+      "/images/stages/16/3.png"
     ]
   },
   {
@@ -409,7 +409,7 @@
     ],
     "gallery": [
       "/images/stages/18/1.jpg",
-      "/images/stages/18/2.jpg",
+      "/images/stages/18/2.webp",
       "/images/stages/18/3.jpg"
     ]
   },
@@ -431,9 +431,9 @@
       { "rank": 3, "riderId": 100 }
     ],
     "gallery": [
-      "/images/stages/19/1.jpg",
+      "/images/stages/19/1.webp",
       "/images/stages/19/2.jpg",
-      "/images/stages/19/3.jpg"
+      "/images/stages/19/3.webp"
     ]
   },
   {
@@ -455,7 +455,7 @@
     ],
     "gallery": [
       "/images/stages/20/1.jpg",
-      "/images/stages/20/2.jpg",
+      "/images/stages/20/2.webp",
       "/images/stages/20/3.jpg"
     ]
   },
@@ -477,7 +477,7 @@
       { "rank": 3, "riderId": 120 }
     ],
     "gallery": [
-      "/images/stages/21/1.jpg",
+      "/images/stages/21/1.jpeg",
       "/images/stages/21/2.jpg",
       "/images/stages/21/3.jpg"
     ]
