@@ -1,5 +1,5 @@
-import stages from '@/data/stages.json'
-import riders from '@/data/riders.json'
+import stages from '../../../data/stages.json'
+import riders from '../../../data/riders.json'
 
 export default function handler(req, res) {
   const { id } = req.query

@@ -1,5 +1,5 @@
-import classifications from '@/data/classifications.json'
-import riders from '@/data/riders.json'
+import classifications from '../../../data/classifications.json'
+import riders from '../../../data/riders.json'
 
 export default function handler(req, res) {
   const result = {}
