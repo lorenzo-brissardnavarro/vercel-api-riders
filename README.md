@@ -6,7 +6,7 @@ API REST construite avec  Vercel permettant d’accéder aux données du Tour de
 
 ## 🌐 Base URL
 
-https://<ton-projet>.vercel.app/api
+https://vercel-api-riders.vercel.app/api
 
 
 ---
