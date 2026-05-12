@@ -9,7 +9,7 @@
     "type": "plaine",
     "profileImage": "/images/stages/1/profile.jpg",
     "description": "Étape inaugurale en boucle autour de Lille, principalement plate, offrant une opportunité aux sprinteurs de décrocher le premier maillot jaune. Une rareté ces dernières années. C'est une des raisons qui a attiré beaucoup de sprinteurs au départ, alors qu'il y aura paradoxalement peu d'opportunités pour eux.",
-    "interview": "Je suis très heureux de cette victoire.",
+    "interview": "C'est une journée parfaite que je n'oublierai jamais de ma vie. Le dernier kilomètre était une expérience d'équipe très forte. C'est une victoire d'équipe, j'en suis fier",
     "graph": "/images/stages/1/graphique.png",
     "podium": [
       { "rank": 1, "riderId": 124 },
@@ -32,7 +32,7 @@
     "type": "vallonnée",
     "profileImage": "/images/stages/2/profile.webp",
     "description": "Étape accidentée traversant le Pas-de-Calais, avec des côtes pouvant favoriser les puncheurs. On s'attend déjà à avoir du mouvement dans le final chez les leaders du classement général et notamment du côté de Tadej Pogacar et Remco Evenepoel.",
-    "interview": "Je suis très heureux de cette victoire.",
+    "interview": "Aujourd'hui je savais que je pouvais gagner. J'ai eu des années difficiles sur le Tour, j'essaie toujours d'être à mon meilleur mais ce n'est vraiment pas facile. Je suis très heureux de gagner de nouveau après quatre ans, ça fait du bien.",
     "graph": "/images/stages/2/graphique.png",
     "podium": [
       { "rank": 1, "riderId": 131 },
@@ -55,7 +55,7 @@
     "type": "plaine",
     "profileImage": "/images/stages/3/profile.jpg",
     "description": "Parcours plat propice aux sprinteurs, longeant la frontière belge et se terminant à Dunkerque. Le Mont Cassel semble de trop loin de l'arrivée pour servir les dessins des puncheurs.",
-    "interview": "Je suis très heureux de cette victoire.",
+    "interview": "Ça a été une grosse bataille dans les cinq derniers kilomètres. On dépense beaucoup d'énergie pour garder sa place, et je suis content d'avoir tenu jusqu'à la fin. J'étais venu là pour gagner une étape.",
     "graph": "/images/stages/3/graphique.png",
     "podium": [
       { "rank": 1, "riderId": 119 },
@@ -78,7 +78,7 @@
     "type": "vallonnée",
     "profileImage": "/images/stages/4/profile.jpg",
     "description": "Étape vallonnée reliant la Somme à la Seine-Maritime, avec des passages pouvant surprendre les favoris.",
-    "interview": "Je suis très heureux de cette victoire.",
+    "interview": "Oui, je suis sans voix, c'était une si belle victoire. Gagner la 100e sur le Tour, c'est incroyable. En plus, avec ce maillot de champion du monde, avoir 100 victoires, c'est fou !",
     "graph": "/images/stages/4/graphique.png",
     "podium": [
       { "rank": 1, "riderId": 100 },
@@ -101,7 +101,7 @@
     "type": "contre-la-montre",
     "profileImage": "/images/stages/5/profile.jpg",
     "description": "Contre-la-montre individuel autour de Caen, offrant une première hiérarchie parmi les prétendants au classement général. Très peu de dénivelé, seulement quelque faux plats montants mais rien de bien méchant. C'est un contre-la-montre taillé pour les purs rouleurs comme Pippo Ganna et Remco Evenepoel.",
-    "interview": "Je suis très heureux de cette victoire.",
+    "interview": "C'est clair que les jambes sont là donc j'espère que j'aurai les mêmes jambes demain et puis je pense qu'il y a beaucoup à faire. Il y a moyen de reprendre les 58 secondes. J'espère que ce sera assez pour aller chercher le maillot jaune.",
     "graph": "/images/stages/5/graphique.png",
     "podium": [
       { "rank": 1, "riderId": 112 },
@@ -124,7 +124,7 @@
     "type": "vallonnée",
     "profileImage": "/images/stages/6/profile.webp",
     "description": "Étape accidentée en Normandie, avec des côtes pouvant favoriser les échappées. Cependant, avec un final difficile, les puncheurs risques de s'y intéressé, y compris Tadej Pogacar qui peut espérer prendre une victoire et des bonifications. A noter que c'est un vrai petit Liège-bastogne-Liège qui a été déssiné à travers la Normandie avec 3500m de dénivelé.",
-    "interview": "Je suis très heureux de cette victoire.",
+    "interview": "C’est un rêve devenu réalité. Gagner une étape du Tour, c’est incroyable. J’ai grandi en regardant cette course avec mon père.",
     "graph": "/images/stages/6/graphique.png",
     "podium": [
       { "rank": 1, "riderId": 115 },
@@ -147,7 +147,7 @@
     "type": "vallonnée",
     "profileImage": "/images/stages/7/profile.jpeg",
     "description": "Arrivée au sommet du Mûr-de-Bretagne, une montée courte mais raide, qui donnera aux puncheurs et aux leaders du classement général une occasion de briller. Le reste de l'étape n'est pas difficile. C'est la dernière étape pour puncheurs, la 4e en 7 jours de course.",
-    "interview": "Je suis très heureux de cette victoire.",
+    "interview": "C'est presque une journée parfaite, cette première semaine s’est très bien passée pour nous. Bien évidemment on ne se dit jamais qu’on va gagner deux fois sur les 7 premiers jours.",
     "graph": "/images/stages/7/graphique.png",
     "podium": [
       { "rank": 1, "riderId": 100 },
@@ -170,7 +170,7 @@
     "type": "plaine",
     "profileImage": "/images/stages/8/profile.jpg",
     "description": "Étape de plaine entre l'Ille-et-Vilaine et la Mayenne, favorable aux sprinteurs. Attention, l'arrivée à Laval est en léger faux plat montant mais rien d'insurmontable pour les coureurs les plus rapides du monde. Il ne faudra pas lancer trop tôt.",
-    "interview": "Je suis très heureux de cette victoire.",
+    "interview": "Je suis heureux de cette victoire. On a travaillé pour ça, et elle est enfin arrivée à la troisième tentative. Dès le départ, on était super motivés, et les gars ont fait un travail extraordinaire.",
     "graph": "/images/stages/8/graphique.png",
     "podium": [
       { "rank": 1, "riderId": 116 },
@@ -193,7 +193,7 @@
     "type": "plaine",
     "profileImage": "/images/stages/9/profile.jpg",
     "description": "Parcours plat à travers le Centre-Val de Loire, une nouvelle chance pour les sprinteurs. Un week-end un peu terne, pas forcément très intélligent pour le spectacle. C'est terrible mais il est possible que ce soit la dernière opportunité pour les sprinteurs, après une semaine de course. Il reste peut être l'étape de Valence et celle des Champs Elysée, mais avec la côte de Montmartre, ce n'est pas garanti.",
-    "interview": "Je suis très heureux de cette victoire.",
+    "interview": "C'est une belle revanche sur hier. Je crois que j'arrive à revenir à 200 mètres de l'arrivée, de toute façon, il fallait y aller, sinon c'était perdu. Et je gagne ma deuxième étape sur ce Tour de France 2025.",
     "graph": "/images/stages/9/graphique.png",
     "podium": [
       { "rank": 1, "riderId": 119 },
@@ -216,7 +216,7 @@
     "type": "montagne",
     "profileImage": "/images/stages/10/profile.jpg",
     "description": "Seule étape de montagne dans le Massif central, avec une arrivée au sommet du Puy de Sancy. Les coureurs passeront aussi par le col de la Croix Saint-Robert, long de 5,1 km à 6,3%.",
-    "interview": "Je suis très heureux de cette victoire.",
+    "interview": "Cette victoire six ans après, je ne m'y attendais pas parce que c'est tout pour Jonas Vingegaard sur ce Tour. Mes premières journées de course ont été très difficile mais ça va mieux.",
     "graph": "/images/stages/10/graphique.png",
     "podium": [
       { "rank": 1, "riderId": 135 },
@@ -239,7 +239,7 @@
     "type": "plaine",
     "profileImage": "/images/stages/11/profile.jpg",
     "description": "Étape en boucle autour de Toulouse, principalement plate, mais qui pourrait jouer des tours aux sprinteurs avec son final vallonné. Pas certains qu'on ait un sprint massif à Toulouse ou du moins, pas avec tous les purs sprinteurs. Les baroudeurs ont même une petite chance.",
-    "interview": "Je suis très heureux de cette victoire.",
+    "interview": "Je m’étais cassé la clavicule, en Belgique, j’en pleurais… Je pensais avoir laissé ma chance de participer au Tour de France.",
     "graph": "/images/stages/11/graphique.png",
     "podium": [
       { "rank": 1, "riderId": 101 },
@@ -262,7 +262,7 @@
     "type": "montagne",
     "profileImage": "/images/stages/12/profile.jpg",
     "description": "Première étape pyrénéenne avec une arrivée au sommet d'Hautacam, ascension redoutable pour les grimpeurs. En 2023, Jonas Vingegaard avait définitivement assommé Pogacar au sommet.",
-    "interview": "Je suis très heureux de cette victoire.",
+    "interview": "Je suis très heureux de gagner cette ascension et de gagner du temps sur mes concurrents. On a fait un super travail d’équipe.Ça faisait longtemps que l'on visait cette étape. ",
     "graph": "/images/stages/12/graphique.png",
     "podium": [
       { "rank": 1, "riderId": 100 },
@@ -285,7 +285,7 @@
     "type": "contre-la-montre",
     "profileImage": "/images/stages/13/profile.jpg",
     "description": "Contre-la-montre individuel original en montée vers l'altiport de Peyragudes, test crucial pour les favoris.",
-    "interview": "Je suis très heureux de cette victoire.",
+    "interview": "Je suis très heureux. Ce contre-la-montre me trottait dans la tête depuis décembre, je voulais que tout soit parfait. Et au dernier moment, l'équipe a tout bien géré.",
     "graph": "/images/stages/13/graphique.png",
     "podium": [
       { "rank": 1, "riderId": 100 },
@@ -308,7 +308,7 @@
     "type": "montagne",
     "profileImage": "/images/stages/14/profile.jpg",
     "description": "Dernière étape de montagne dans les Pyrénées qui verra les coureurs franchir le Col du Tourmalet, le col d'Aspin, le col de Peyresourde avant d'escalader la montée final de Superbagnères.",
-    "interview": "Je suis très heureux de cette victoire.",
+    "interview": "Tous les spectateurs m'ont donné un surplus de motivation. En commençant le Tour, je voulais juste prendre de l'expérience sur la plus grande course du monde. Gagner lors de mon premier Tour, c'est complètement fou ! ",
     "graph": "/images/stages/14/graphique.png",
     "podium": [
       { "rank": 1, "riderId": 105 },
@@ -331,7 +331,7 @@
     "type": "vallonnée",
     "profileImage": "/images/stages/15/profile.jpg",
     "description": "Étape accidentée reliant la Haute-Garonne à l'Aude, qui devrait sourire aux baroudeurs. Le Pas de Sant sera la diffuculté principale, celle qui devrait convaincre les sprinteurs de ne pas jouer leur carte. Une étape parfaite pour Wout Van Aert.",
-    "interview": "Je suis très heureux de cette victoire.",
+    "interview": "Evidemment c’est ma plus belle victoire, il n’y a rien de mieux que de gagner une étape du Tour de France et cela représente encore plus avec ce maillot de champion de Belgique. Je travaille maintenant dans la meilleure équipe du monde, ça a changé ma carrière.",
     "graph": "/images/stages/15/graphique.png",
     "podium": [
       { "rank": 1, "riderId": 134 },
@@ -354,7 +354,7 @@
     "type": "montagne",
     "profileImage": "/images/stages/16/profile.jpg",
     "description": "La mythique ascension du Mont Ventoux est de retour en 2025. Le 'Géant de Provence', peut chambouler le classement général et viendra débuter la 3e semaine de course. Attention à la remise en route parfois difficile.",
-    "interview": "Je suis très heureux de cette victoire.",
+    "interview": "C'est incroyable de gagner ici, je ne réalise pas. C'est un travail d'équipe.",
     "graph": "/images/stages/16/graphique.png",
     "podium": [
       { "rank": 1, "riderId": 123 },
@@ -377,7 +377,7 @@
     "type": "plaine",
     "profileImage": "/images/stages/17/profile.jpg",
     "description": "Étape de transition entre Vaucluse et Drôme, favorable aux sprinteurs même si les baroudeurs auront aussi leur mot à dire avec la fatigue générale du peloton.",
-    "interview": "Je suis très heureux de cette victoire.",
+    "interview": "Je suis très heureux, je n’ai pas les mots. C’est une victoire fantastique, je dois remercier mes coéquipiers du plus profond de mon cœur. On a réussi à aller chercher ce résultat ensemble, c’était une étape très difficile.",
     "graph": "/images/stages/17/graphique.png",
     "podium": [
       { "rank": 1, "riderId": 116 },
@@ -400,7 +400,7 @@
     "type": "montagne",
     "profileImage": "/images/stages/18/profile.jpg",
     "description": "Étape alpestre avec une arrivée au sommet du terrible Col de la Loze, point culminant du Tour à 2 304 mètres. Avant cela, il faudra gravir le Glandon, par son versant le plus 'facile' et le col de la Madeleine, cette fois-ci par son versant le plus compliqué. Sans aucun doute l'étape Reine du Tour de France 2025.",
-    "interview": "Je suis très heureux de cette victoire.",
+    "interview": "C'est une course dure, c'est la plus grande course du monde mais aussi la plus sympa. Je ne peux pas être plus fier. Merci à l'équipe qui a toujours été derrière moi.",
     "graph": "/images/stages/18/graphique.png",
     "podium": [
       { "rank": 1, "riderId": 121 },
@@ -423,7 +423,7 @@
     "type": "montagne",
     "profileImage": "/images/stages/19/profile.jpg",
     "description": "Courte mais intense étape de montagne avec une arrivée à La Plagne, qui n'avait plus accueilli la Grande Boucle depuis 2003 et la victoire de Lance Armstrong. La montée est longue, plutôt roulante et régulière (19km à 7,1%).",
-    "interview": "Je suis très heureux de cette victoire.",
+    "interview": "Je suis complètement détruit. Je n'arrive pas à y croire. Gagner une étape était déjà incroyable, mais deux... En plus, j'ai gagné la première en étant dans l'échappée.",
     "graph": "/images/stages/19/graphique.png",
     "podium": [
       { "rank": 1, "riderId": 105 },
@@ -446,7 +446,7 @@
     "type": "vallonnée",
     "profileImage": "/images/stages/20/profile.jpg",
     "description": "Étape accidentée dans le Jura, dernière chance pour les baroudeurs avant l'arrivée Paris. La bataille pour prendre l'échappée sera acharnée mais on devrait assister à une très belle journée de course.",
-    "interview": "Je suis très heureux de cette victoire.",
+    "interview": "Ce n’est même pas un rêve d’enfant, j’ai démarré le cyclisme trop tard pour ça. Sous la pluie, dans le froid, j’ai senti que j’étais bien. J’avais de super jambes, même si j’ai souffert.",
     "graph": "/images/stages/20/graphique.png",
     "podium": [
       { "rank": 1, "riderId": 114 },
@@ -469,7 +469,7 @@
     "type": "plaine",
     "profileImage": "/images/stages/21/profile.jpg",
     "description": "Traditionnelle étape finale se terminant sur les Champs-Élysées, la 21e étape du Tour de France 2025 fait peau neuve. Après un défiler en banlieue, les coureurs se livreront bataille sur les Champs pour une victoire de prestige mais devront gravir la côte de la Butte Montmartre à trois reprises avant de revenir sur les Champs. La dernier passage au sommet n'est qu'à 6 kilomètres, ce qui redistribue complètement les cartes. Les Van der Poel ou Pogacar ont maintenant une chance de battre les sprinteurs, à leur plus grand désarroi.",
-    "interview": "Je suis très heureux de cette victoire.",
+    "interview": "C'était un jour spécial. Les conditions étaient difficiles. Je remercie mes coéquipiers qui ont été là à chaque moment. On avait un plan... et il a marché.",
     "graph": "/images/stages/21/graphique.png",
     "podium": [
       { "rank": 1, "riderId": 129 },
