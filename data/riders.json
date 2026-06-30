@@ -26,7 +26,7 @@
     "id": 103, 
     "name": "JULIAN ALAPHILIPPE", 
     "age": 32, 
-    "team": "SOUDAL QUICK-STEP", 
+    "team": "TUDOR PRO CYCLING", 
     "flag": "/images/flags/france.jpg", 
     "photo": "/images/riders/alaphilippe.png" 
   },
@@ -73,7 +73,7 @@
     "id": 109, 
     "name": "VICTOR CAMPENAERTS", 
     "age": 33, 
-    "team": "LOTTO DSTNY", 
+    "team": "TEAM VISMA | LEASE A BIKE", 
     "flag": "/images/flags/belgique.png", 
     "photo": "/images/riders/campenaerts.png" 
   },
@@ -89,7 +89,7 @@
     "id": 111, 
     "name": "PASCAL EENKHOORN", 
     "age": 28, 
-    "team": "LOTTO DSTNY", 
+    "team": "SOUDAL QUICK-STEP", 
     "flag": "/images/flags/pays_bas.png", 
     "photo": "/images/riders/eenkhorn.png" 
   },
@@ -169,7 +169,7 @@
     "id": 121, 
     "name": "BEN O'CONNOR", 
     "age": 29, 
-    "team": "DECATHLON AG2R LA MONDIALE", 
+    "team": "TEAM JAYCO ALULA", 
     "flag": "/images/flags/australie.jpg", 
     "photo": "/images/riders/o-connor.png" 
   },
@@ -185,7 +185,7 @@
     "id": 123, 
     "name": "AURÉLIEN PARET-PEINTRE", 
     "age": 28, 
-    "team": "DECATHLON AG2R LA MONDIALE", 
+    "team": "SOUDAL QUICK-STEP", 
     "flag": "/images/flags/france.jpg", 
     "photo": "/images/riders/paret-peintre.png" 
   },
@@ -281,7 +281,7 @@
     "id": 135, 
     "name": "ADAM YATES", 
     "age": 32, 
-    "team": "UAE TEAM EMIRATES XRG", 
+    "team": "TEAM VISMA | LEASE A BIKE", 
     "flag": "/images/flags/royaume_uni.jpg", 
     "photo": "/images/riders/yates.png" 
   }
